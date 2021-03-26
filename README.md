@@ -1,6 +1,6 @@
 # magma-meetings
 
-Agenda | Notes | Zoom Link
+Topic | Notes | Zoom Link
 ---|---|---
 Magma Developer Weekly | [Developer Meeting Agendas](https://etherpad.opendev.org/p/Magma_Gateways_Weekly_Meeting) | [Join Developer Meeting](https://zoom.us/j/97365660313?pwd=bVVjWnh3L1lFeGZIV1ZyNVZBcDJ0Zz09)
 Magma DevOps Weekly | [DevOps Meeting Minutes](https://docs.google.com/document/d/1DYaddkNdRMsYgS6hXYlo1X_5J2zP69pMS5Y_4BJnNsk/edit) | [Join DevOps Meeting](https://zoom.us/j/98475167675?pwd=SCs3N0pHQTR5ekhqRXFwL0NlOHBQdz09)
