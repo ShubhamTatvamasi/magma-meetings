@@ -9,7 +9,7 @@ Magma TSC Meeting | [TSC Meeting Notes](https://etherpad.opendev.org/p/magma_tsc
 Magma Domain Proxy | [Domain Proxy Meeting Minutes](https://etherpad.opendev.org/p/magma-domain-proxy) | [Join Domain Proxy Meeting](https://meet.google.com/pzv-hduz-gqd)
 
 [Magma Meeting Recordings
-](https://etherpad.opendev.org/p/r.2846b991172abd605b49c6366b743b2f)
+](https://etherpad.opendev.org/p/magmaweekly_recordings)
 
 
 https://calendar.google.com/calendar/u/0/embed?src=c_gbiu1t7a67ika1th2smldeh19s@group.calendar.google.com
