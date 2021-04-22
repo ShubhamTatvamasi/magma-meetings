@@ -12,5 +12,5 @@ Magma Domain Proxy | [Domain Proxy Meeting Minutes](https://etherpad.opendev.org
 ](https://etherpad.opendev.org/p/magmaweekly_recordings)
 
 
-https://calendar.google.com/calendar/u/0/embed?src=c_gbiu1t7a67ika1th2smldeh19s@group.calendar.google.com
+[Magma Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_gbiu1t7a67ika1th2smldeh19s@group.calendar.google.com)
 
