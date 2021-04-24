@@ -11,5 +11,5 @@ Magma's Tech Debt Week - April 2021 | [Notes](https://etherpad.opendev.org/p/mam
 
 [Magma Meeting Recordings](https://etherpad.opendev.org/p/magmaweekly_recordings)
 
-[Magma Public Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_gbiu1t7a67ika1th2smldeh19s@group.calendar.google.com)
+[Magma Public Calendar](http://bit.ly/MagmaPublicCalendar)
 
